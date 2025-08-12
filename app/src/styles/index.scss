@@ -1,5 +1,6 @@
-// 1) optional: your future variable overrides go here before importing bootstrap
-// $primary: #6f42c1; // example — we'll tweak later
 
-// 2) import bootstrap (includes reboot, grid, utilities)
+// Bootstrap (includes reboot, grid, utilities)
 @import "bootstrap/scss/bootstrap";
+
+// Add navbar styles 
+@import "./navbar";
